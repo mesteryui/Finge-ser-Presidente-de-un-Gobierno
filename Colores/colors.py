@@ -36,7 +36,7 @@ def reset() :
     RESET = "\033[0m"
     stdout.write(RESET)
 
-#Color Amariloo
+#Color Amarillo
 
 def yellow() :
     YELLOW = "\033[1;33m"
